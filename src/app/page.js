@@ -10,8 +10,8 @@ export default function Home() {
         <Navbar />
       </header>
 
-      <div className="flex flex-col md:flex-row items-center justify-around px-4 mt-10">
-        <div className="flex flex-col items-center text-center w-full md:w-1/3 mt-10">
+      <div className="flex flex-col md:flex-row items-center h-screen justify-around">
+        <div className="flex flex-col items-center text-center w-full md:w-1/3">
           <h1 className="text-5xl font-bold text-pantone-2020">
             Hola! Soy
             <span className="text-pantone-2020"> Alejandro</span>
